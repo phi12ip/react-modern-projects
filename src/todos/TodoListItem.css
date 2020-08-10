@@ -32,3 +32,7 @@ button {
     background-color: #ee2222;
     margin-left: 8px;
 }
+
+.todo-text {
+    padding: 0 20px;
+}
